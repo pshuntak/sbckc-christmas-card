@@ -13,17 +13,17 @@ export async function POST(request: Request) {
         const mockGeneratedImages = [
           { 
             id: 1, 
-            url: '/images/bg-1.jpg', 
+            url: '/images/bg-G1.png', 
             style: '傳統神聖水彩風 (優雅聖誕紅裝飾)' 
           },
           { 
             id: 2, 
-            url: '/images/bg-2.jpg', 
+            url: '/images/bg-G2.png', 
             style: '現代幾何扁平風 (極簡深夜藍星空)' 
           },
           { 
             id: 3, 
-            url: '/images/bg-3.jpg', 
+            url: '/images/bg-G3.png', 
             style: '溫馨社區插畫風 (溫暖冬日聖誕樹)' 
             // 實際畫面：正中央掛滿黃光與頂部金星的實體聖誕樹，水彩插畫風格
           }
