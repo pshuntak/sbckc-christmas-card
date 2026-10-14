@@ -97,8 +97,8 @@ function SharedCardContent() {
           </div>
 
           <div className="text-center px-2">
-            <h3 className="font-bold text-xs text-slate-700 mb-1">主內友好：</h3>
-            <p className="text-[11px] leading-relaxed text-slate-600">
+            <h3 className="font-bold text-s text-slate-700 mb-1">主內友好：</h3>
+            <p className="text-[13px] leading-relaxed text-slate-600">
               值此佳節，謹代表本會全體同工及弟兄姊妹，向您致以最誠摯的基督祝福。願主耶穌基督的恩惠、上帝的慈愛、聖靈的感動，常與你們眾人同在！
             </p>
           </div>
