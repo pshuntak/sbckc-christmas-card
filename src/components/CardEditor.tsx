@@ -208,8 +208,8 @@ export default function CardEditor({ year, theme, selectedBgUrl }: CardEditorPro
             <div className="w-1/2 h-full p-8 flex flex-col justify-between bg-stone-50">
               <div></div>
               <div className="text-center px-4">
-                <h3 className="font-bold text-lg mb-4 text-slate-800">主內友好教會：</h3>
-                <p className="text-sm leading-relaxed text-slate-600">值此佳節，謹代表本會全體同工及弟兄姊妹，向 貴會致以最誠摯的基督祝福。願主耶穌基督的恩惠、上帝的慈愛、聖靈的感動，常與你們眾人同在！</p>
+                <h3 className="font-bold text-lg mb-4 text-slate-800">主內友好教會 / 機構：</h3>
+                <p className="text-sm leading-relaxed text-slate-600">值此佳節，謹代表本會全體同工及弟兄姊妹，向 貴會 / 機構致以最誠摯的基督祝福。願主耶穌基督的恩惠、上帝的慈愛、聖靈的感動，常與你們眾人同在！</p>
               </div>
               <div className="text-right text-xs text-gray-400"> </div>
             </div>
